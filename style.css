@@ -1,0 +1,38 @@
+.container{
+    width: 40%;
+    
+    font-style: inherit;
+    margin: auto;
+    border: 2px solid rgb(94, 34, 235);
+    border-radius: 6px;
+    text-align: center;
+}
+input{
+    width: 80%;
+    margin: 10px;
+    padding: 4px;
+    border: 2px solid rgb(94, 34, 235);
+    border-radius: 6px;
+}
+.head{
+    border: 2px solid rgb(94, 34, 235);
+    padding: 10px;
+    background-color: rgb(215 239 250);
+    border-radius: 20px;
+}
+footer{
+    border: 2px solid rgb(94, 34, 235);
+    padding: 10px;
+    background-color: rgb(215 239 250);
+    border-radius: 20px;
+    margin: 20px 0px 0px 0px;
+}
+.btn{
+    text-decoration: none;
+    
+    border: 2px solid rgb(94, 34, 235);
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 6px;
+    background-color: rgb(215 239 250);
+}
